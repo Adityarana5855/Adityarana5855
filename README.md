@@ -75,12 +75,42 @@ $ echo "Let's build something amazing 🚀"
 ## 📊 GitHub Statistics
 
 > 🚀 GitHub statistics coming soon...
-```text
-```bash
-```md
-## 👨‍💻 Developer
+---
 
-```text
+## 🚀 Featured Projects
+
+### 🤖 Machine Failure Prediction
+
+Machine learning project that predicts potential machine failures.
+
+**Tech:** Python • Machine Learning
+
+[💻 View Project](https://github.com/Adityarana5855/Machine-Failure-Prediction)
+
+---
+
+### 🌐 Developer Portfolio
+
+Modern animated developer portfolio showcasing my skills and projects.
+
+**Tech:** HTML • CSS • JavaScript
+
+[💻 View Project](https://github.com/Adityarana5855/portfolio-ui)
+
+[🌐 Live Demo](https://new-mauve-one.vercel.app/)
+
+---
+
+### 🔥 Firebase Application
+
+Web application using Firebase Authentication and Firestore.
+
+**Tech:** JavaScript • Firebase
+
+
+---
+
+## 👨‍💻 Developer
  █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ██████╗ ██████╗  █████╗ ████████╗ █████╗ ██████╗
 ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗
 ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    ██████╔╝██████╔╝███████║   ██║   ███████║██████╔╝
