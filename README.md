@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://asciigenerators.com/#app" width="100%" />
+</p>
+
+---
+
 ## 👨‍💻 Developer
 
 ```text
@@ -14,6 +20,9 @@
 ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
 ███████║██║██║ ╚████║╚██████╔╝██║  ██║
 ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+
+
+
 
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 
