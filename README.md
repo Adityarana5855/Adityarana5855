@@ -8,7 +8,7 @@ Full Stack Developer | DSA | Problem Solver
 Building projects, solving problems and learning every day 🚀
 </p>
 ---
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&width=500&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" />
 ## 💻 Terminal
 
 ```bash
