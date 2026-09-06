@@ -120,6 +120,24 @@ Web application using Firebase Authentication and Firestore.
 </p>
 
 ---
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://new-mauve-one.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-pratap-singh-34bb44314">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Adityarana5855">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
 
 
 ## 👨‍💻 Developer
