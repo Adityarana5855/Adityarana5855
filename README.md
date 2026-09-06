@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://asciigenerators.com/#app" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=180&section=header&text=Aditya%20Pratap%20Singh&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 ---
