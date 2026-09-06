@@ -38,6 +38,8 @@ Currently learning:
 → Advanced DSA
 
 $ echo "Let's build something amazing 🚀"
+
+```
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
