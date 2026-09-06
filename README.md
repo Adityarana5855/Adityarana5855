@@ -36,37 +36,46 @@ Building projects, solving problems and learning every day 🚀
 </p>
 ---
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&width=500&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" />
+---
+
 ## 💻 Terminal
 
 ```bash
-$ whoami
+┌──(aditya㉿github)-[~]
+└─$ whoami
 
 Aditya Pratap Singh
-
-$ cat about.txt
-
 Full Stack Developer
-DSA & Competitive Programming
-Problem Solver
-Open Source Enthusiast
 
-$ cat skills.txt
+┌──(aditya㉿github)-[~]
+└─$ cat about.txt
 
-Frontend  → React.js
-Backend   → Node.js
-Database  → Firebase
-Languages → C++ | JavaScript | Python
+▸ Full Stack Developer
+▸ DSA & Competitive Programming
+▸ Problem Solver
+▸ Open Source Enthusiast
 
-$ status
+┌──(aditya㉿github)-[~]
+└─$ cat skills.txt
 
-Currently learning:
-→ Cloud
-→ DevOps
-→ Advanced DSA
+Frontend     → React.js
+Backend      → Node.js
+Database     → Firebase
+Languages    → C++ | JavaScript | Python
 
-$ echo "Let's build something amazing 🚀"
+┌──(aditya㉿github)-[~]
+└─$ status
 
+🟢 Available for opportunities
+📚 Learning → Cloud | DevOps | Advanced DSA
+🚀 Building → Full Stack Projects
+
+┌──(aditya㉿github)-[~]
+└─$ echo "Let's build something amazing 🚀"
+
+Let's build something amazing 🚀
 ```
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
