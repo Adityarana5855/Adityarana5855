@@ -109,6 +109,18 @@ Web application using Firebase Authentication and Firestore.
 
 
 ---
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/adityarana_0101?theme=dark&font=baloo" />
+
+</p>
+
+---
+
 
 ## 👨‍💻 Developer
 
