@@ -150,6 +150,7 @@ Building projects, solving problems and learning every day 🚀
 
 </div>
 ---
+
 ## 🚀 Featured Projects
 
 [svg](https://github.com/Adityarana5855/Adityarana5855/blob/main/README.md#-featured-projects)
@@ -188,8 +189,7 @@ Web application using Firebase Authentication and Firestore.
 
 **Tech:** JavaScript • Firebase update this also make more 3d
 ---
-
-```
+---
 
 
 ## 🧠 LeetCode
