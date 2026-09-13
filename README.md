@@ -136,37 +136,17 @@ Building projects, solving problems and learning every day 🚀
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/Adityarana5855">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Adityarana5855&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"
-  />
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/Adityarana5855">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarana5855&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
-  />
-</a>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Adityarana5855&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="90%" />
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-<a href="https://github.com/Adityarana5855">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Adityarana5855&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"
-  />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityarana5855&theme=github_dark" width="95%" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Adityarana5855&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityarana5855&theme=github_dark" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityarana5855&theme=github_dark" width="45%" />
 
 </div>
 ---
