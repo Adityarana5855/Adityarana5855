@@ -194,12 +194,57 @@ Web application using Firebase Authentication and Firestore.
 
 ## 🧠 LeetCode
 
-<p align="center">
+<div align="center">
 
-<img src="https://leetcard.jacoblin.cool/adityarana_0101?theme=dark&font=baloo" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:164e63&height=90&section=header&text=LEETCODE%20COMMAND%20CENTER&fontSize=28&fontColor=FFA116&animation=fadeIn"/>
 
-</p>
+<br/><br/>
 
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🧩 Problem Solving
+
+<img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<br/><br/>
+
+**Arrays • Strings • Trees • Graphs**
+
+**Dynamic Programming • Greedy**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🔥 Daily Progress
+
+<img src="https://img.shields.io/badge/KEEP%20SOLVING-00F7FF?style=for-the-badge"/>
+
+<br/><br/>
+
+**Solve → Learn → Improve**
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/adityarana_0101?theme=dark&font=Baloo&ext=heatmap" width="90%"/>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/adityarana_0101/">
+
+<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+</div>
 ---
 ## 📫 Connect With Me
 
