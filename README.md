@@ -41,42 +41,53 @@ Building projects, solving problems and learning every day 🚀
 ## 💻 Terminal
 
 ```bash
-┌──(aditya㉿github)-[~]
-└─$ whoami
+┌──(aditya㉿github)-[~/developer]
+└─$ ./profile.sh
 
-Aditya Pratap Singh
-Full Stack Developer&ML
+╭──────────────────────────────────────────────────────────────╮
+│                     ADITYA PRATAP SINGH                     │
+│              Full Stack Developer • ML Enthusiast           │
+╰──────────────────────────────────────────────────────────────╯
 
-┌──(aditya㉿github)-[~]
-└─$ cat about.txt
+┌──(aditya㉿github)-[~/developer]
+└─$ about
 
-▸ Full Stack Developer
-▸ DSA & Competitive Programming
-▸ Problem Solver
-▸ Open Source Enthusiast
-▸ Machine Learning Enthusiast
+  👨‍💻  Full Stack Developer
+  🧠  DSA & Problem Solving
+  🤖  Machine Learning Enthusiast
+  🌐  Open Source Contributor
+  🚀  Building Real-World Applications
 
 
-┌──(aditya㉿github)-[~]
-└─$ cat skills.txt
+┌──(aditya㉿github)-[~/developer]
+└─$ tech --stack
 
-Frontend     → React.js
-Backend      → Node.js
-Database     → Firebase
-Languages    → C++ | JavaScript | Python
+  Frontend    → React.js
+  Backend     → Node.js • Express.js
+  Database    → Firebase • MongoDB
+  Languages   → C++ • JavaScript • Python
+  Tools       → Git • GitHub • Postman
 
-┌──(aditya㉿github)-[~]
-└─$ status
 
-🟢 Available for opportunities
-📚 Learning → Cloud | DevOps | Advanced DSA
-🚀 Building → Full Stack Projects
+┌──(aditya㉿github)-[~/developer]
+└─$ currently
 
-┌──(aditya㉿github)-[~]
-└─$ echo "Let's build something amazing 🚀"
+  🟢 Status      → Open to opportunities
+  🔨 Building    → Full Stack Projects
+  🧩 Solving     → DSA & LeetCode
+  📚 Learning    → Cloud • DevOps • Advanced DSA
+  🤖 Exploring   → AI • Machine Learning
 
-Let's build something amazing 🚀
+
+┌──(aditya㉿github)-[~/developer]
+└─$ mission
+
+  "Build. Solve. Learn. Repeat." ⚡
+
+┌──(aditya㉿github)-[~/developer]
+└─$ █
 ```
+
 
 ## 🛠️ Tech Stack
 
