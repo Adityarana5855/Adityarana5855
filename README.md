@@ -196,36 +196,55 @@ Web application using Firebase Authentication and Firestore.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:164e63&height=90&section=header&text=LEETCODE%20COMMAND%20CENTER&fontSize=28&fontColor=FFA116&animation=fadeIn"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:164e63&height=100&section=header&text=LEETCODE%20COMMAND%20CENTER&fontSize=28&fontColor=FFA116&animation=fadeIn"
+/>
+
+<br/><br/>
+
+<!-- LeetCode Stats Card -->
+<img
+  src="https://leetcard.jacoblin.cool/adityarana_0101?theme=unicorn&font=Baloo&ext=heatmap"
+  width="100%"
+/>
+
+<br/><br/>
+
+<!-- LeetCode Profile -->
+<a href="https://leetcode.com/u/adityarana_0101/">
+
+<img
+  src="https://img.shields.io/badge/LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+/>
+
+</a>
 
 <br/><br/>
 
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🧩 Problem Solving
+### 🟢 EASY
 
-<img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<br/><br/>
-
-**Arrays • Strings • Trees • Graphs**
-
-**Dynamic Programming • Greedy**
+<img src="https://img.shields.io/badge/SOLVE-00FF88?style=for-the-badge"/>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🔥 Daily Progress
+### 🟡 MEDIUM
 
-<img src="https://img.shields.io/badge/KEEP%20SOLVING-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLVE-FFD43B?style=for-the-badge"/>
 
-<br/><br/>
+</td>
 
-**Solve → Learn → Improve**
+<td align="center" width="33%">
+
+### 🔴 HARD
+
+<img src="https://img.shields.io/badge/SOLVE-FF4B4B?style=for-the-badge"/>
 
 </td>
 
@@ -234,15 +253,9 @@ Web application using Firebase Authentication and Firestore.
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/adityarana_0101?theme=dark&font=Baloo&ext=heatmap" width="90%"/>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/adityarana_0101/">
-
-<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-</a>
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=SOLVE%20%E2%80%A2%20LEARN%20%E2%80%A2%20IMPROVE&fontSize=18&fontColor=FFA116"
+/>
 
 </div>
 ---
