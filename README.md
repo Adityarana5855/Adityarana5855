@@ -153,36 +153,116 @@ Building projects, solving problems and learning every day 🚀
 
 ## 🚀 Featured Projects
 
-### 🤖 Machine Failure Prediction
+<div align="center">
 
-Machine learning project that predicts potential machine failures.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:164e63&height=90&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
 
-**Tech:** Python • Machine Learning
+<br/><br/>
 
-[💻 View Project](https://github.com/Adityarana5855/Machine-Failure-Prediction)
+<table>
+<tr>
 
----
+<td width="50%" align="center">
 
-### 🌐 Developer Portfolio
+## 🤖 Machine Failure Prediction
 
-Modern animated developer portfolio showcasing my skills and projects.
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-00F7FF?style=for-the-badge&logo=python&logoColor=black"/>
 
-**Tech:** HTML • CSS • JavaScript
+<br/><br/>
 
-[💻 View Project](https://github.com/Adityarana5855/portfolio-ui)
+Predicts potential machine failures using
+machine learning techniques and data analysis.
 
-[🌐 Live Demo](https://new-mauve-one.vercel.app/)
+<br/><br/>
 
----
+**⚡ Tech Stack**
 
-### 🔥 Firebase Application
+`Python` `Machine Learning`
 
-Web application using Firebase Authentication and Firestore.
+<br/><br/>
 
-**Tech:** JavaScript • Firebase
+<a href="https://github.com/Adityarana5855/Machine-Failure-Prediction">
+<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
 
+</td>
 
----
+<td width="50%" align="center">
+
+## 🌐 Developer Portfolio
+
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<br/><br/>
+
+Modern animated developer portfolio showcasing
+skills, projects and developer experience.
+
+<br/><br/>
+
+**⚡ Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br/><br/>
+
+<a href="https://github.com/Adityarana5855/portfolio-ui">
+<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
+
+&nbsp;
+
+<a href="https://new-mauve-one.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FF88?style=for-the-badge&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🔥 Firebase Application
+
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<br/><br/>
+
+Full-stack web application using Firebase
+Authentication and Firestore.
+
+<br/><br/>
+
+**⚡ Tech Stack**
+
+`JavaScript` `Firebase` `Firestore`
+
+<br/><br/>
+
+<a href="YOUR_FIREBASE_REPO_LINK">
+<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+## 🚧 More Coming Soon
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-8B5CF6?style=for-the-badge"/>
+
+<br/><br/>
+
+Currently building new projects focused on
+**Full Stack Development, AI & ML.**
+
+<br/><br/>
+
+```text
+BUILDING...
+██████████████████░░ 90%
 ---
 
 ## 🧠 LeetCode
