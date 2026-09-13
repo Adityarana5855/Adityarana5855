@@ -261,28 +261,99 @@ Web application using Firebase Authentication and Firestore.
 ---
 ## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:164e63&height=100&section=header&text=CONNECT%20WITH%20ME&fontSize=30&fontColor=00F7FF&animation=fadeIn"
+/>
+
+<br/><br/>
 
 <a href="https://new-mauve-one.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/🌐%20PORTFOLIO-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"
+  />
 </a>
 
-<a href="https://www.linkedin.com/in/aditya-pratap-singh-34bb44314">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/aditya-pratap-singh-34bb44314/">
+  <img
+    src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Adityarana5855">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
-</p>
----
+<br/><br/>
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat" />
+<td align="center" width="33%">
 
-</p>
+### 🌐
+
+**Portfolio**
+
+<br/>
+
+<a href="https://new-mauve-one.vercel.app/">
+<img src="https://img.shields.io/badge/VISIT-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 💼
+
+**LinkedIn**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aditya-pratap-singh-34bb44314/">
+<img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻
+
+**GitHub**
+
+<br/>
+
+<a href="https://github.com/Adityarana5855">
+<img src="https://img.shields.io/badge/FOLLOW-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Adityarana5855&label=PROFILE%20VIEWS&style=for-the-badge&color=00F7FF"
+/>
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=LET'S%20BUILD%20SOMETHING%20AMAZING%20%E2%9A%A1&fontSize=18&fontColor=00F7FF"
+/>
+
+</div>
 
 
 
