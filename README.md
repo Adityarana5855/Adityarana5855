@@ -136,30 +136,39 @@ Building projects, solving problems and learning every day 🚀
 
 <div align="center">
 
-<br/>
-
+<!-- GitHub Stats -->
 <a href="https://github.com/Adityarana5855">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityarana5855&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_radius=15"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Adityarana5855&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"
+  />
 </a>
 
-   
-
+<!-- Top Languages -->
 <a href="https://github.com/Adityarana5855">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarana5855&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=15"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarana5855&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
+  />
 </a>
 
 <br/><br/>
 
+<!-- GitHub Streak -->
 <a href="https://github.com/Adityarana5855">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityarana5855&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border_radius=15" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Adityarana5855&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"
+  />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityarana5855&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<!-- Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Adityarana5855&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"
+/>
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
